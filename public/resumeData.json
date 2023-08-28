@@ -1,0 +1,137 @@
+{
+    "main": {
+      "name": "Somaye moosavi",
+      "occupation": "freelancer",
+      "description": "I eat, sleep and breathe React",
+      "image": "profilepic.jpg",
+      "bio": "Hi there! I am Somaye moosavi!  I've been coding for over 4 years now.i havent worked in any company officially but i have took part in some projects as an intern I am familiar to many coding language like java c++ python but my main skills are react and react native",
+      "contactmessage": "Get in touch with me!",
+      "email": "sm.moosavi.sm@gmail.com",
+      "phone": "+90 5447880145",
+      "address": {
+        
+        "city": "esenyurt",
+        "state": "Istanbul"
+        
+      },
+      "website": "",
+      "resumedownload": "",
+      "social": [
+        {
+          "name": "youtube",
+          "url": "#",
+          "className": "fa fa-youtube"
+        },
+       
+        {
+          "name": "linkedin",
+          "url": "#",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "#",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/somy-bit",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "My Programming Language Proficiency",
+      "education": [
+        {
+          "school": "University of pnu iran tehran",
+          "degree": "Bachelor's Degree,  software engineering",
+          "graduated": "2016",
+          "description": "Graduated with First Class Honours"
+        }
+      ],
+      "work": [
+        {
+          "company": "freelancer",
+          "title": "",
+          "years": "",
+          "description": "Cloning all the apps possible. "
+        }
+      ],
+      "skills": [ 
+        {
+          "name": "english ",
+          "level": "99%"
+        },
+        {
+          "name": "ReactJs",
+          "level": "90%"
+        },
+        {
+          "name": "NextJs",
+          "level": "60%"
+        },
+        {
+          "name": "React native",
+          "level": "80%"
+        },
+        {
+          "name": "java",
+          "level": "70%"
+        },
+        {
+          "name": "php (laravel)",
+          "level": "70%"
+        },  
+       
+        {
+          "name": "Git",
+          "level": "70%"
+        },
+        {
+          "name": "JavaScript",
+          "level": "70%"
+        },
+        {
+          "name": "Web Development",
+          "level": "85%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "trello Clone (Next.JS)",
+          "category": "",
+          "image": "trello.png",
+          "url": "https://trello-clone-five-sepia.vercel.app/"
+        },
+        {
+          "title": "airbnb Clone (React JS)",
+          "category": "",
+          "image": "airbnb.png",
+          "url": "https://airbnb-clone-flax-gamma.vercel.app"
+        },
+        {
+          "title": "NFT drop (React JS,thirdweb)",
+          "category": "",
+          "image": "nft.png",
+          "url": "https://nft-drop-ecru.vercel.app/"
+        },
+        {
+          "title": "meta messanger (React JS,thirdweb)",
+
+          "category": "",
+          "image": "meta.png",
+          "url": "https://meta-messenger-eight.vercel.app/"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        
+   
+      ]
+    }
+  }
+  
